@@ -1,6 +1,6 @@
 {
   "name": "@hyteinc/hierarchical-email",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Library for converting email addresses back and forth between normal, and hierarchical forms",
   "license": "MIT",
   "repository": "https://github.com/hyteinc/hierarchical-email",
