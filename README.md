@@ -6,7 +6,7 @@ Library used for taking a normal email address such as user@example.com, and con
 
 Allows for more logical sorting/ordering of email addresses based on domain. 
 
-###DynamoDB
+### DynamoDB
 DynamoDB is a NoSQL database offered by Amazon AWS
 
 DynamoDB allows for querying Sort Keys based on 'begins with'. 
